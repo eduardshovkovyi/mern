@@ -1,0 +1,6 @@
+{
+  "port": 8001,
+  "jwtSecret": "testany",
+  "mongoUrl": "mongodb+srv://edikshovkovyi:Metalist1925@cluster0.ys89e.mongodb.net/mern?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:8001"
+}
